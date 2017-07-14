@@ -1,0 +1,30 @@
+
+How to play Cubix`s Cafe:
+
+	- Use the arrow keys to move the player (yellow square).
+
+	- Use 'space' to take the costumers' orders (costumers are white circles).
+
+	- You can only take one order at the time.
+
+	- Take the order to the counter where the bartender is (bartender is the green square and 
+
+		the counter is the brown polygon).
+
+	- Use space again to place the order.
+
+	- All actions involving 'space' require overlap of the interacting parts.
+
+	- Clients' orders appear on screen as blue triangles, red rectangles and green ellipses.
+
+	- When you take their orders, those figures will be drawn hollow.
+
+	- When you place their orders correctly, the hollow figures will disappear.
+
+	- The game ends when you successfully place three orders, no matter color or shape (for now).
+
+	- A GG!(Great Game!) screen will show up indicating the game is over.
+
+
+				Hope you enjoy this very simple game! :D
+
